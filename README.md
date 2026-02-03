@@ -9,11 +9,16 @@
 
 ##
 
-
-### Studying in this moment:
+### Main Skills: 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-vue.js-0D1117?style=for-the-badge&logo=vuedotjs)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=nodedotjs&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+### Studying in this moment:
+
+![Python](https://img.shields.io/badge/-c++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### Other Knowledge:
 
@@ -30,7 +35,6 @@
 
 <div>
   <a href="https://www.instagram.com/bragaxzh_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://steamcommunity.com/profiles/76561199630347548/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
  
 </div>
 
