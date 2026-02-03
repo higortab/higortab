@@ -1,17 +1,20 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2596be&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&rigth=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Higor+Braga;I'm+17+years+old;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-<div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=higortab&show_icons=true&count_private=true&hide_border=false&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higortab&layout=compact&hide_border=false&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2596be&size=35&rigth=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Higor+Braga;I'm+17+years+old;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ##
 
+<div align="center">
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=higortab&theme=transparent)&nbsp; | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=higortab&theme=transparent)&nbsp; |
+| :-: | :-: |
+  
+</div>
+
+
 ### Main Skills: 
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-vue.js-0D1117?style=for-the-badge&logo=vuedotjs)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=nodedotjs&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
@@ -40,4 +43,10 @@
 
 ##
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/higortab/higortab/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/higortab/higortab/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/higortab/higortab/output/pacman-contribution-graph.svg">
+</picture>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2596be&height=120&section=footer"/>
